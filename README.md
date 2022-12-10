@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Pascal
 
+<h1 align="center">Hi there 👋, I'm Pascal</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🌱 I’m currently learning **React, Blazor, .NET**
