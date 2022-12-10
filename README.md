@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Pascal</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently learning **React, Blazor, .NET**
+- 🌱 I’m currently learning **Blazor, .NET, Javascript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paschyz](https://github.com/paschyz)
 
