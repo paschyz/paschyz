@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Pascal</h1>
-<h3 align="center">A passionate full stack developer from France</h3>
+<h3 align="center">A software engineer from France</h3>
 
-- 🌱 I’m currently learning **Blazor, .NET, Javascript, Python**
+- 🌱 I’m currently learning **Rust, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paschyz](https://github.com/paschyz)
 
