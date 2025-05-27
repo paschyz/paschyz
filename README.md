@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Pascal</h1>
-<h3 align="center">A software engineer from France</h3>
+<h3 align="center">A fullstack developper from France</h3>
 
 - 🌱 I’m currently learning **Power BI, DAX, MiniMax algorithm**
 
