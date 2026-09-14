@@ -1,18 +1,27 @@
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm Pascal</h1>
-<h3 align="center">A fullstack developper from France</h3>
+<br/>
 
-- 🌱 I’m currently learning **Power BI, DAX, MiniMax algorithm**
+### Pascal Zhou
 
-- 👨‍💻 All of my projects are available at [https://github.com/paschyz](https://github.com/paschyz)
+**I build fast, polished web and mobile applications.**  
+From idea to production — clean code, great UI, real results.
 
-- 📫 How to reach me : **pascal.zhou.pro@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pascal-zhou-06a5921b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pascal-zhou-06a5921b7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paschyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paschyz" height="30" width="40" /></a>
-</p>
+pascal.zhou.pro@gmail.com · [linkedin](https://www.linkedin.com/in/pascal-zhou)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
+
+![React](https://img.shields.io/badge/React-0d1f35?style=flat-square&logo=react&logoColor=13efff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1f35?style=flat-square&logo=typescript&logoColor=13efff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1f35?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0d1f35?style=flat-square&logo=react&logoColor=a448e5)
+![Node.js](https://img.shields.io/badge/Node.js-0d1f35?style=flat-square&logo=nodedotjs&logoColor=13efff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1f35?style=flat-square&logo=postgresql&logoColor=13efff)
+![Three.js](https://img.shields.io/badge/Three.js-0d1f35?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1f35?style=flat-square&logo=tailwindcss&logoColor=13efff)
+
+<br/>
+
+</div>
