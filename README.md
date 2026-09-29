@@ -8,7 +8,8 @@
 From idea to production — clean code, great UI, real results.
 <br/>
 <br/>
-[my portfolio](https://pascal-zhou.vercel.app)
+### [link to my portfolio](https://pascal-zhou.vercel.app)
+
 <br/>
 
 pascal.zhou.pro@gmail.com · [linkedin](https://www.linkedin.com/in/pascal-zhou) 
