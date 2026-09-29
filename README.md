@@ -6,10 +6,12 @@
 
 **I build fast, polished web and mobile applications.**  
 From idea to production — clean code, great UI, real results.
-
+<br/>
+<br/>
+[my portfolio](https://pascal-zhou.vercel.app)
 <br/>
 
-[portfolio](https://pascal-zhou.vercel.app) · pascal.zhou.pro@gmail.com · [linkedin](https://www.linkedin.com/in/pascal-zhou) 
+pascal.zhou.pro@gmail.com · [linkedin](https://www.linkedin.com/in/pascal-zhou) 
 
 <br/>
 
